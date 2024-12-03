@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #000000, #01122e);
+  }
+  
+  .container {
+    width: 90%;
+    max-width: 1000px;
+    display: flex;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    background-color: white;
+  }
+  
+  .left-section {
+    flex: 1;
+    background-image: url("7683.jpg");
+    background-position: center;
+    background-size: cover;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  .left-section h1 {
+    font-size: 2rem;
+    margin-bottom: 50px;
+  }
+  
+  .left-section p {
+    font-size: 1rem;
+  }
+  
+  .right-section {
+    flex: 1;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .form-container {
+    width: 100%;
+    max-width: 350px;
+    text-align: center;
+  }
+  
+  .form-container h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .form-container p {
+    font-size: 0.9rem;
+    color: #555;
+  }
+  
+  .form-container p a {
+    color: blue;
+    text-decoration: none;
+  }
+  
+  .form-container p a:hover {
+    text-decoration: underline;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+    text-align: left;
+  }
+  
+  .input-group label {
+    font-size: 0.9rem;
+    color: #333;
+  }
+  
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .checkbox-group {
+    display: flex;
+    align-items: center;
+    font-size: 0.9rem;
+    color: mediumblue;
+    margin-bottom: 20px;
+  }
+  
+  .checkbox-group input {
+    margin-right: 10px;
+  }
+  
+  .signup-btn {
+    display: block;
+    width: 100%;
+    color: blue;
+  
+    font-weight: 700;
+    border: none;
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  
