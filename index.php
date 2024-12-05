@@ -326,7 +326,7 @@
         </div>
 
         <!-- Social Media Section -->
-        <div style="padding: 20px; text-align: center; background-color: ;">
+        <div style="padding: 20px; text-align: center;">
             <h4 style="color: #f39c12;">Follow Us</h4>
             <div style="display: flex; justify-content: center; gap: 20px; margin-top: 5px;">
               <!-- Facebook -->
