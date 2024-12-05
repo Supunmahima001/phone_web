@@ -10,9 +10,9 @@
   </head>
   <body>
     <div class="row">
-      <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
-     <h2><b>The Mobile Phone</b></h2>
-    </div>
+    <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js">
+
+    </script>
     <header>
       <div class="header">
         <div class="container">
@@ -20,6 +20,8 @@
           <div class="full">
               <div class="center-desk">
                   <div class="logo">
+                      <h2><b>The Mobile Phone</b></h2>
+                  </div>
               </div>
           </div>
         </div>
@@ -36,7 +38,7 @@
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
                   <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="about.html">About Us</a>
@@ -45,7 +47,7 @@
                     <a class="nav-link" href="#newrelease">New Released Phones</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="contact.html">Contact Us</a>
+                    <a class="nav-link" href="contact.php">Contact Us</a>
                   </li>
                 
                   <li class="nav-item dropdown">
@@ -54,9 +56,9 @@
                     </a>
                     <ul class="dropdown-menu">
                       <li><a class="dropdown-item" href="models_sam.php">Samsung</a></li>
-                      <li><a class="dropdown-item" href="models_iphone.html">iPhone</a></li>
+                      <li><a class="dropdown-item" href="models_iphone.php">iPhone</a></li>
                       <!--<li><hr class="dropdown-divider"></li>-->
-                      <li><a class="dropdown-item" href="models_redmi.html">Redmi</a></li>
+                      <li><a class="dropdown-item" href="models_redmi.php">Redmi</a></li>
                     </ul>
                   </li>
                   <!--login Button-->
@@ -324,7 +326,7 @@
         </div>
 
         <!-- Social Media Section -->
-        <div style="padding: 20px; text-align: center;">
+        <div style="padding: 20px; text-align: center; background-color: ;">
             <h4 style="color: #f39c12;">Follow Us</h4>
             <div style="display: flex; justify-content: center; gap: 20px; margin-top: 5px;">
               <!-- Facebook -->
