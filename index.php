@@ -63,7 +63,7 @@
                   </li>
                   <!--login Button-->
                   <li class="nav-item">
-                    <a class="nav-link" onclick="document.getElementById('id01').style.display='block'" href="#">Login</a>
+                    <a class="nav-link"  href="signup/page.php">Sign Up</a>
                   </li>
                 </ul>
                 <form class="d-flex" role="search">
