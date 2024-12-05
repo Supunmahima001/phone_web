@@ -11,8 +11,8 @@
   <body>
     <div class="row">
       <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
-                      <h2><b>The Mobile Phone</b></h2>
-                  </div>
+     <h2><b>The Mobile Phone</b></h2>
+    </div>
     <header>
       <div class="header">
         <div class="container">
@@ -53,7 +53,7 @@
                       Models
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="models_sam.html">Samsung</a></li>
+                      <li><a class="dropdown-item" href="models_sam.php">Samsung</a></li>
                       <li><a class="dropdown-item" href="models_iphone.html">iPhone</a></li>
                       <!--<li><hr class="dropdown-divider"></li>-->
                       <li><a class="dropdown-item" href="models_redmi.html">Redmi</a></li>
