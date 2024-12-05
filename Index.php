@@ -10,7 +10,7 @@
   </head>
   <body>
     <div class="row">
-      <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"/>
+      <script src="bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
                       <h2><b>The Mobile Phone</b></h2>
                   </div>
     <header>
