@@ -41,7 +41,7 @@
                     <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="about.html">About Us</a>
+                    <a class="nav-link" href="about.php">About Us</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#newrelease">New Released Phones</a>
