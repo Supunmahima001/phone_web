@@ -63,7 +63,7 @@
                   </li>
                   <!--login Button-->
                   <li class="nav-item">
-                    <a class="nav-link"  href="signup_login/page.php">Log In</a>
+                    <a class="nav-link"  href="signup_login/login.php">Sign In</a>
                   </li>
                 </ul>
                 <form class="d-flex" role="search">
