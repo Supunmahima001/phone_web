@@ -15,7 +15,7 @@
         <div class="right-section">
             <div class="form-container">
                 <h2>Sign Up</h2>
-                <p>Already have an account? <a href="#">Log in</a></p>
+                <p>Already have an account? <a href="login.php">Log in</a></p>
                 <form action="#">
                     <div class="input-group">
                         <label for="fullname">Full Name</label>

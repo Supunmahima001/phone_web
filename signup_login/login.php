@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Signup</title>
+    <title>Sign In</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -14,8 +14,8 @@
         </div>
         <div class="right-section">
             <div class="form-container">
-                <h2>Sign Up</h2>
-                <p>Create an account? <a href="#">Sign Up</a></p>
+                <h2>Sign In</h2>
+                <p>Create an account? <a href="page.php">Sign Up</a></p>
                 <form action="#">
                     <!--<div class="input-group">
                         <label for="fullname">Full Name</label>
