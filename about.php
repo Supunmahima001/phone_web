@@ -24,8 +24,9 @@
             latest technology.Whether you're buyingyour dream phone or selling
             your phones,our platform ensures a seamless,secure,and user-friendly
             experiences.We're here to help you upgrade your world,one mobile at
-            a time."
-          </p>
+            a time.Find your perfect phone today with ease and confidence!
+            "
+</p>
         </div>
         <div class="image-section">
           <div class="image" ></div>
