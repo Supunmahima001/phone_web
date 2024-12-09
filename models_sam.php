@@ -6,7 +6,7 @@
     <title>Samsung</title>
     <link rel="stylesheet" href="CSS/New.css">
 	<link href="bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet">
-</head>....
+</head>
 <body>
 <div class="head-c">
 	<div class="row">
