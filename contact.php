@@ -74,7 +74,7 @@
 
     <br>
     <hr>
-    <!--form-->
+    
     <br><br><br>
     <div class="row-form" style="padding-left: 20%; padding-right: 20%">
     	<div class="mb-3">
