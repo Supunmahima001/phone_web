@@ -200,7 +200,7 @@
         <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
-  </div>
+</div>
   <div class="col">
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
