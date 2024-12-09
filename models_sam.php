@@ -59,7 +59,7 @@
                       <li><a class="dropdown-item" href="models_iphone.php">iPhone</a></li>
                       <!--<li><hr class="dropdown-divider"></li>-->
                       <li><a class="dropdown-item" href="models_redmi.php">Redmi</a></li>
-                    </ul>
+</ul>
                   </li>
                 </ul>
                 <form class="d-flex" role="search">
