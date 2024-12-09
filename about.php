@@ -11,7 +11,7 @@
       <header>
         <h1>About Us</h1>
         <p class="subtitle">
-          
+
           Driven by excellence,owered by innovation committed to creating
           meaningful solutions that make a difference.
         </p>
@@ -28,7 +28,7 @@
           </p>
         </div>
         <div class="image-section">
-          <div class="image"></div>
+          <div class="image" ></div>
         </div>
       </section>
     </div>
