@@ -18,7 +18,7 @@
           <div class="full">
               <div class="center-desk">
                   <div class="logo">
-                      <h2><b>The Mobile Phone</b></h2>
+                      <h2><b>The Smart Phone</b></h2>
                   </div>
               </div>
           </div>
