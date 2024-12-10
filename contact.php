@@ -80,19 +80,19 @@
     <div class="row-form" style="padding-left: 20%; padding-right: 20%">
     	<div class="mb-3">
 		  <label for="exampleFormControlInput1" class="form-label">Your Name</label>
-		  <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="Your Name">
+		  <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="Your Name" name='name'>
 		</div>
 		<div class="mb-3">
 		  <label for="exampleFormControlInput1" class="form-label">Contact No</label>
-		  <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="Phone">
+		  <input type="name" class="form-control" id="exampleFormControlInput1" placeholder="Phone" name='contact_no'>
 		</div>
     	<div class="mb-3">
 		  <label for="exampleFormControlInput1" class="form-label">Email address</label>
-		  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@gmail.com">
+		  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@gmail.com" name='email'>
 		</div>
 		<div class="mb-3">
 		  <label for="exampleFormControlTextarea1" class="form-label">Message</label>
-		  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+		  <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name='message'></textarea>
 		</div>
  	</div>
 
