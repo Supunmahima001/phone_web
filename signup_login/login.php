@@ -8,6 +8,14 @@ $pswd=mysqli_real_escape_string($connection,$_POST["pswd"]);
 
 if($email!=""&& $pswd!=""){
     $sql1="SELECT * FROM dbname WHERE email='{$email}'AND pswd='{$pswd}'";
+    $result_set1=mysqli_query($connection,$sql);
+
+    if(mysql_num_rows($result_set1)==1)
+{
+    $row=mysqli_fetch_assoc($result_set1);
+    $SESSION['user_id']=$row['userid'];
+    header("Loca")
+}
 }
 }
 
