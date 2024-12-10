@@ -5,6 +5,10 @@ session_start();
 if(isset($_POST["login"])){
     $email=mysqli_real_escape_string($connection,$_POST["email"]);
 $pswd=mysqli_real_escape_string($connection,$_POST["pswd"]);
+
+if($email!=""&& $pswd!=""){
+    $sql1="SELECT * FROM dbname WHERE email='{$email}'AND pswd='{$pswd}'";
+}
 }
 
 <!DOCTYPE html>
