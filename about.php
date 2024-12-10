@@ -27,7 +27,8 @@
             a time.Find your perfect phone today with ease and confidence!
             "
 </p>
-        </div>
+        
+</div>
         <div class="image-section">
           <div class="image" ></div>
         </div>
