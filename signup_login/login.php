@@ -4,7 +4,9 @@ require_once '';
 session_start();
 if(isset($_POST["login"])){
     $email=mysqli_real_escape_string($connection,$_POST["email"]);
+$pswd=mysqli_real_escape_string($connection,$_POST["pswd"]);
 }
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
