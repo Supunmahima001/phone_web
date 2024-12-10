@@ -1,5 +1,5 @@
 <?php
-require_once '';
+require_once 'dbconf.php';
 ?>
 session_start();
 if(isset($_POST["login"])){
