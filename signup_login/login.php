@@ -14,10 +14,11 @@ if($email!=""&& $pswd!=""){
 {
     $row=mysqli_fetch_assoc($result_set1);
     $SESSION['user_id']=$row['userid'];
-    header("Location:login.php");
+    header("Location:index.php");
 }
 }
 }
+?>
 
 <!DOCTYPE html>
 <html lang="en">
