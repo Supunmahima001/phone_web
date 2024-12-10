@@ -76,6 +76,7 @@
     <hr>
     
     <br><br><br>
+    <form action='public/contactus.php'>
     <div class="row-form" style="padding-left: 20%; padding-right: 20%">
     	<div class="mb-3">
 		  <label for="exampleFormControlInput1" class="form-label">Your Name</label>
@@ -95,10 +96,12 @@
 		</div>
  	</div>
 
+
   <p style="padding-left: 20%">
   <button type="button" class="btn btn-secondary btn-sm">Clear All</button>
   <button type="button" class="btn btn-primary btn-sm">Submit</button>
   </p>
+</from>
 
 </body>
 </html>
