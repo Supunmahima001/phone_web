@@ -98,8 +98,8 @@
 
 
   <p style="padding-left: 20%">
-  <button type="button" class="btn btn-secondary btn-sm">Clear All</button>
-  <button type="button" class="btn btn-primary btn-sm">Submit</button>
+  <button type="reset" class="btn btn-secondary btn-sm">Clear All</button>
+  <button type="submit" class="btn btn-primary btn-sm">Submit</button>
   </p>
 </from>
 
