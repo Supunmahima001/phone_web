@@ -57,8 +57,8 @@ function printTable1($connect,$name,$contact_no,$email,$message){
                     foreach ($row as $key => $value) {
                         echo "<td> $value </td>";
                     }
-                    $id=$row['StudentID'];
-                    echo "<td><a href='student.php?id = $id'>View</td>";
+                    $name=$row['name'];
+                    echo "<td><a href='mobile_web.php?id = $name'>View</td>";
                     echo "</tr>";
                 }
                 echo "</table>";
@@ -77,7 +77,7 @@ function printTable1($connect,$name,$contact_no,$email,$message){
     
         $result = mysqli_query($connect,$sql);
         if ($result) {
-            echo "New Student record created successfully!";
+            echo "record created successfully!";
         }else{
             die("Error".mysqli_error($connect));
         }
