@@ -73,7 +73,7 @@ function printTable1($connect,$name,$contact_no,$email,$message){
 //insert data into table
     function addData($connect,$contactus,$name,$contact_no,$email,$message){
         try {
-            $sql = "INSERT INTO $table VALUES ('$reg','$name','$age','$course')";
+            $sql = "INSERT INTO $contactus VALUES ('$reg','$name','$age','$course')";
     
         $result = mysqli_query($connect,$sql);
         if ($result) {
