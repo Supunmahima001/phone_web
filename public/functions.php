@@ -71,7 +71,7 @@ function printTable1($connect,$name,$contact_no,$email,$message){
 }
 
 //insert data into table
-    function addData($connect,$contactus,$name,$contact_no,$email,$message){
+    function addData($connect,$name,$contact_no,$email,$message){
         try {
             $sql = "INSERT INTO $contactus VALUES ('$name','$contact_no','$email','$message')";
     
