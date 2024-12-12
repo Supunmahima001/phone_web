@@ -35,10 +35,10 @@ function GetData($connect){
 }
 
 //Get table data from col vise
-function printTable1($connect,$name1,$name2,$tname){
+function printTable1($connect,$name,$contact_no,$email,$message){
     try{
         
-            $sql="SELECT $name1,$name2 from $tname";
+            $sql="SELECT $name,$contact_no,$email,$message from $ mobile_web";
 
             $result=mysqli_query($connect,$sql);
         
@@ -71,7 +71,7 @@ function printTable1($connect,$name1,$name2,$tname){
 }
 
 //insert data into table
-    function addData($connect,$table,$reg,$name,$age,$course){
+    function addData($connect,$contactus,$name,$contact_no,$email,$message){
         try {
             $sql = "INSERT INTO $table VALUES ('$reg','$name','$age','$course')";
     
