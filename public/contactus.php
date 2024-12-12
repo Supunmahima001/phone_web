@@ -10,6 +10,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $message = $_POST['message'];
 }
 
-addData($connect,$contact,$name,$contact_no,$email,$message);
+addData($connect,$name,$contact_no,$email,$message);
 
 ?>
