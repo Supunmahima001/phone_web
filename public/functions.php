@@ -4,7 +4,7 @@ require_once 'dbconf.php';
 //Get all data from table
 function GetData($connect){
     try{
-        $sql="SELECT * from student";
+        $sql="SELECT * from mobile_web";
 
         $result=mysqli_query($connect,$sql);
 
