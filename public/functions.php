@@ -1,5 +1,5 @@
 <?php
-require_once 'DB.php';
+require_once 'dbconf.php';
 
 //Get all data from table
 function GetData($connect){
