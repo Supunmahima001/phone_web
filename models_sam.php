@@ -32,7 +32,7 @@
               <a class="navbar-brand" href="#"></a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
-              </button>
+</button>
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
                   <li class="nav-item">
@@ -59,7 +59,7 @@
                       <li><a class="dropdown-item" href="models_iphone.php">iPhone</a></li>
                       <!--<li><hr class="dropdown-divider"></li>-->
                       <li><a class="dropdown-item" href="models_redmi.php">Redmi</a></li>
-                    </ul>
+</ul>
                   </li>
                 </ul>
                 <form class="d-flex" role="search">
@@ -67,8 +67,8 @@
                   <button class="btn btn-outline-success" type="submit">Search</button>
                 </form>
               </div>
-            </div>
-          </nav>
+</div>
+</nav>
           </div>
          </div>
 
@@ -169,7 +169,7 @@
       </div>
       <div class="card-footer">
         <a href="#" class="btn btn-primary">Buy Now</a>
-      </div>
+</div>
     </div>
   </div>
 </div>
@@ -200,7 +200,7 @@
         <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
-  </div>
+</div>
   <div class="col">
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">

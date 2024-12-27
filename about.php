@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
+    <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>About Us</title>
-    <link rel="stylesheet" href="CSS/about.css" />
+    <link rel="stylesheet" href="CSS/about.css"/>
   </head>
   <body>
     <div class="container">
       <header>
         <h1>About Us</h1>
         <p class="subtitle">
+
           Driven by excellence,owered by innovation committed to creating
           meaningful solutions that make a difference.
         </p>
@@ -23,11 +24,13 @@
             latest technology.Whether you're buyingyour dream phone or selling
             your phones,our platform ensures a seamless,secure,and user-friendly
             experiences.We're here to help you upgrade your world,one mobile at
-            a time."
-          </p>
-        </div>
+            a time.Find your perfect phone today with ease and confidence!
+            "
+</p>
+        
+</div>
         <div class="image-section">
-          <div class="image"></div>
+          <div class="image" ></div>
         </div>
       </section>
     </div>
