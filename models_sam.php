@@ -214,11 +214,15 @@ IP67 water resistance.</p>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        <h5 class="card-title">Galaxy A35 5G</h5>
+        <p class="card-text">6.6" Super AMOLED display<br>
+Exynos 1380 processor<br>
+6/8GB RAM, up to 256GB storage<br>
+48MP main camera<br>
+5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="A35.jpj" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
 </div>
