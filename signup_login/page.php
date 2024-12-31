@@ -12,7 +12,7 @@
         require_once 'dbconnect.php';
         require_once 'functions.php';
 
-        function addData($connect,$fullname,$,$email,$password){
+        function addData($connect,$fullname,$email,$password){
             try {
                 $sql = "INSERT INTO signup VALUES ('$name','$fullname','$email','$password')";
         
@@ -36,7 +36,7 @@
         }
 
         addData($fullname,$email,$password);
-        
+
     ?>
     <div class="container">
         <div class="left-section">
