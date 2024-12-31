@@ -244,60 +244,10 @@ RAM/Storage: Up to 4GB/64GB<br>
 Special Features: Leather-like back design</p>
       </div>
       <div class="card-footer">
-        <a href="Samsung-Galaxy-A25-5G-Fantasy-Blue.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="Xiaomi-Redmi-A3.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
-</div>
-<br>
-<div class="row row-cols-1 row-cols-md-3 g-4">
-  <div class="col">
-    <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Galaxy M55 5G</h5>
-        <p class="card-text">6.7" Super AMOLED display<br>
-Snapdragon 7 Gen 1 processor<br>
-Up to 8GB RAM, 256GB storage<br>
-50MP main camera<br>
-5000mAh battery</p>
-      </div>
-      <div class="card-footer">
-        <a href="MBPSSM-M556BLGASLK-S-1--1730187495.jpg" class="btn btn-primary">Buy Now</a>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Galaxy M35 5G</h5>
-        <p class="card-text">6.6" Super AMOLED display<br>
-MediaTek processor<br>
-6GB RAM, 128GB storage<br>
-50MP main camera<br>
-6000mAh battery.</p>
-      </div>
-      <div class="card-footer">
-        <a href="Samsung-Galaxy-M35-8GB-RAM-256GB-Price-In-Sri-Lanka.jpg" class="btn btn-primary">Buy Now</a>
-      </div>
-    </div>
-  </div>
-  <div class="col">
-    <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title">Galaxy F55 5G</h5>
-        <p class="card-text">Similar specs to A55 with market-specific variations<br>
-Online exclusive availability<br>
-Competitive pricing</p>
-      </div>
-      <div class="card-footer">
-        <a href="samsung-galaxy-f55.jpg" class="btn btn-primary">Buy Now</a>
-      </div>
-    </div>
-  </div>
-</div>
 </div>
 
 
