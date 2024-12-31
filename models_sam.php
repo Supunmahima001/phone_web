@@ -178,7 +178,10 @@ Improved hinge design.</p>
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy Z Flip5</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        <p class="card-text">6.7" main display when unfolded<br>
+3.4" cover display<br>
+Snapdragon 8 Gen 2 processor<br>
+8GB RAM.</p>
       </div>
       <div class="card-footer">
         <a href="#" class="btn btn-primary">Buy Now</a>
