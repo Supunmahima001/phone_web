@@ -230,11 +230,15 @@ Exynos 1380 processor<br>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        <h5 class="card-title">Galaxy A25 5G</h5>
+        <p class="card-text">6.5" Super AMOLED display<br>
+Exynos 1280 processor<br>
+6/8GB RAM, 128GB storage<br>
+50MP main camera<br>
+5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="Samsung-Galaxy-A25-5G-Fantasy-Blue.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
