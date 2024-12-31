@@ -257,7 +257,7 @@ Up to 8GB RAM, 256GB storage<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="MBPSSM-M556BLGASLK-S-1--1730187495.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -265,11 +265,15 @@ Up to 8GB RAM, 256GB storage<br>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        <h5 class="card-title">Galaxy M35 5G</h5>
+        <p class="card-text">6.6" Super AMOLED display<br>
+MediaTek processor<br>
+6GB RAM, 128GB storage<br>
+50MP main camera<br>
+6000mAh battery.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="Samsung-Galaxy-M35-8GB-RAM-256GB-Price-In-Sri-Lanka.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
