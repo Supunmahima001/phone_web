@@ -144,14 +144,15 @@ Special Features: IP54 rating</p>
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi Note 13 5G</h5>
-        <p class="card-text">6.2" FHD+ Dynamic AMOLED display<br>
-Snapdragon 8 Gen 3 processor<br>
-8GB RAM and up to 256GB storage<br>
-50MP main camera<br>
-4000mAh battery</p>
+        <p class="card-text">Display: 6.67" FHD+ AMOLED, 120Hz<br>
+Processor: MediaTek Dimensity 6080<br>
+Camera: 108MP main + 8MP ultrawide + 2MP macro<br>
+Front Camera: 16MP<br>
+Battery: 5000mAh, 33W charging<br>
+RAM/Storage: Up to 8GB/256GB</p>
       </div>
       <div class="card-footer">
-        <a href="S24.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="Img/images.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
