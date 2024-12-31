@@ -84,20 +84,19 @@
     <div class="products card h-100">
       <img src="Img/samsung_S24.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Samsung S24</h5>
-        <p class="card-text">Display: 6.1" Dynamic AMOLED 2X, 120Hz, FHD+<br>
-          Chipset: Snapdragon 8 Gen 2 (USA/China) or Exynos 2200 (Global)<br>
-          Storage: 128 GB or 256 GB (no microSD)<br>
-          Cameras:<br>
-          Rear: 50 MP (main), 12 MP (ultrawide), 10 MP (telephoto, 3x zoom)<br>
-          Front: 12 MP<br>
-          Battery: 3,900 mAh, 25W fast charging<br>
-          Other: IP68 water resistance, 5G, no headphone jack, stereo speakers<br>
-          <br>
-          Rs.175000.00</p>
+        <h5 class="card-title">Redmi Note 4 (MediaTek Variant)</h5>
+        <p class="card-text">Display: 5.5-inch Full HD (1920x1080) IPS LCD<br>
+Processor: MediaTek Helio X20 deca-core<br>
+RAM: 2GB/3GB variants<br>
+Storage: 16GB/32GB, expandable via microSD<br>
+Camera: 13MP rear, 5MP front<br>
+Battery: 4100mAh<br>
+Special features: Metal body, fingerprint sensor<br>
+Operating System: MIUI 8 based on Android 6.0
+        </p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="xiaomi-redmi-note4-sn-3.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -105,19 +104,17 @@
     <div class="products card h-100">
       <img src="Img/samsung_S22n.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Samsung S22</h5>
-        <p class="card-text">Display: 6.1" Dynamic AMOLED 2X, 120Hz, FHD+<br>
-          Chipset: Snapdragon 8 Gen 1 (USA/China) or Exynos 2200 (Global)<br>
-          Storage: 128 GB or 256 GB (no microSD)<br>
-          Cameras:<br>
-          Rear: 50 MP (main), 12 MP (ultrawide), 10 MP (telephoto, 3x zoom)<br>
-          Front: 10 MP<br>
-          Battery: 3,700 mAh, 25W fast charging<br>
-          Other: IP68 water resistance, 5G, stereo speakers, no headphone jack<br><br>
-          Rs.139000.00</p>
+        <h5 class="card-title">Redmi Note 13 Pro+ 5G</h5>
+        <p class="card-text">Display: 6.67" 1.5K AMOLED, 120Hz<br>
+Processor: MediaTek Dimensity 7200 Ultra<br>
+Camera: 200MP main + 8MP ultrawide + 2MP macro<br>
+Front Camera: 16MP<br>
+Battery: 5000mAh, 120W charging<br>
+RAM/Storage: Up to 12GB/512GB<br>
+Special Features: IP68 rating, Gorilla Glass Victus</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="Xiaomi-Redmi-Note-13-Pro-Plus-5G-8GB-RAM-256GB.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
