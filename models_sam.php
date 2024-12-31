@@ -123,14 +123,14 @@
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="" class="card-img-top" alt="...">
+      <img src="galaxy-s24-ultra-1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy S24 Ultra</h5>
         <p class="card-text">6.8" QHD+ Dynamic AMOLED display<br>
 Snapdragon 8 Gen 3 processor<br>
-Up to 12GB RAM and 1TB storage
-200MP main camera with enhanced AI features
-5000mAh battery
+Up to 12GB RAM and 1TB storage<br>
+200MP main camera with enhanced AI features<br>
+5000mAh battery<br>
 S Pen support</p>
       </div>
       <div class="card-footer">
