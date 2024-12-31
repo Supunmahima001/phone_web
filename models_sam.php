@@ -125,8 +125,13 @@
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        <h5 class="card-title">Galaxy S24 Ultra</h5>
+        <p class="card-text">6.8" QHD+ Dynamic AMOLED display<br>
+Snapdragon 8 Gen 3 processor<br>
+Up to 12GB RAM and 1TB storage
+200MP main camera with enhanced AI features
+5000mAh battery
+S Pen support</p>
       </div>
       <div class="card-footer">
         <a href="#" class="btn btn-primary">Buy Now</a>
