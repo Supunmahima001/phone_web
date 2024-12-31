@@ -123,7 +123,7 @@
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy S24 Ultra</h5>
         <p class="card-text">6.8" QHD+ Dynamic AMOLED display<br>
