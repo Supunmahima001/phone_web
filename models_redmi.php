@@ -202,15 +202,16 @@ Special Features: IP53 rating, Glass back.</p>
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi K70 Pro</h5>
-        <p class="card-text">6.6" Super AMOLED display<br>
-Exynos 1480 processor<br>
-Up to 8GB RAM, 256GB storage<br>
-50MP main camera<br>
-5000mAh battery<br>
-IP67 water resistance.</p>
+        <p class="card-text">Display: 6.67" 2K AMOLED, 120Hz<br>
+Processor: Snapdragon 8 Gen 2<br>
+Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
+Front Camera: 16MP<br>
+Battery: 5000mAh, 120W charging<br>
+RAM/Storage: Up to 24GB/1TB<br>
+Special Features: IR blaster, Dolby Vision</p>
       </div>
       <div class="card-footer">
-        <a href="Samsung Galaxy A55-500x500.jpj" class="btn btn-primary">Buy Now</a>
+        <a href="Redmi-K70-duo.jpj" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -218,7 +219,7 @@ IP67 water resistance.</p>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Galaxy A35 5G</h5>
+        <h5 class="card-title">Redmi K70</h5>
         <p class="card-text">6.6" Super AMOLED display<br>
 Exynos 1380 processor<br>
 6/8GB RAM, up to 256GB storage<br>
