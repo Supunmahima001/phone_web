@@ -160,12 +160,14 @@ RAM/Storage: Up to 8GB/256GB</p>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Galaxy Z Fold5</h5>
-        <p class="card-text">7.6" main display when unfolded<br>
-6.2" cover display<br>
-Snapdragon 8 Gen 2 processor<br>
-12GB RAM<br>
-Improved hinge design.</p>
+        <h5 class="card-title">Redmi 13C</h5>
+        <p class="card-text">Display: 6.74" HD+, 90Hz<br>
+Processor: MediaTek Helio G85<br>
+Camera: 50MP main + 2MP macro<br>
+Front Camera: 8MP<br>
+Battery: 5000mAh, 18W charging<br>
+RAM/Storage: Up to 8GB/256GB<br>
+Special Features: Side fingerprint sensor.</p>
       </div>
       <div class="card-footer">
         <a href="Z fold5.jpg" class="btn btn-primary">Buy Now</a>
