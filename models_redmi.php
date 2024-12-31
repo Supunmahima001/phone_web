@@ -188,7 +188,7 @@ RAM/Storage: Up to 8GB/128GB<br>
 Special Features: IP53 rating, Glass back.</p>
       </div>
       <div class="card-footer">
-        <a href="Samsung-Galaxy-Z-Flip-5.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="f76d64842787c8a6df8c59858b19496f.jpg" class="btn btn-primary">Buy Now</a>
 </div>
     </div>
   </div>
@@ -201,7 +201,7 @@ Special Features: IP53 rating, Glass back.</p>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Galaxy A55 5Gs</h5>
+        <h5 class="card-title">Redmi K70 Pro</h5>
         <p class="card-text">6.6" Super AMOLED display<br>
 Exynos 1480 processor<br>
 Up to 8GB RAM, 256GB storage<br>
