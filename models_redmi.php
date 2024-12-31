@@ -170,7 +170,7 @@ RAM/Storage: Up to 8GB/256GB<br>
 Special Features: Side fingerprint sensor.</p>
       </div>
       <div class="card-footer">
-        <a href="Z fold5.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="redmi-13c-5G-price-in-sri-lanka.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -178,11 +178,14 @@ Special Features: Side fingerprint sensor.</p>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Galaxy Z Flip5</h5>
-        <p class="card-text">6.7" main display when unfolded<br>
-3.4" cover display<br>
-Snapdragon 8 Gen 2 processor<br>
-8GB RAM.</p>
+        <h5 class="card-title">Redmi 12</h5>
+        <p class="card-text">Display: 6.79" FHD+, 90Hz<br>
+Processor: MediaTek Helio G88<br>
+Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
+Front Camera: 8MP<br>
+Battery: 5000mAh, 18W charging<br>
+RAM/Storage: Up to 8GB/128GB<br>
+Special Features: IP53 rating, Glass back.</p>
       </div>
       <div class="card-footer">
         <a href="Samsung-Galaxy-Z-Flip-5.jpg" class="btn btn-primary">Buy Now</a>
