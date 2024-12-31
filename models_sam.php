@@ -249,8 +249,12 @@ Exynos 1280 processor<br>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <h5 class="card-title">Galaxy M55 5G</h5>
+        <p class="card-text">6.7" Super AMOLED display<br>
+Snapdragon 7 Gen 1 processor<br>
+Up to 8GB RAM, 256GB storage<br>
+50MP main camera<br>
+5000mAh battery</p>
       </div>
       <div class="card-footer">
         <a href="#" class="btn btn-primary">Buy Now</a>
