@@ -220,11 +220,11 @@ Special Features: IR blaster, Dolby Vision</p>
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi K70</h5>
-        <p class="card-text">6.6" Super AMOLED display<br>
-Exynos 1380 processor<br>
-6/8GB RAM, up to 256GB storage<br>
-48MP main camera<br>
-5000mAh battery</p>
+        <p class="card-text">Display: 6.67" 2K AMOLED, 120Hz<br>
+Processor: Snapdragon 8 Gen 2<br>
+Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
+Battery: 5500mAh, 120W charging<br>
+RAM/Storage: Up to 16GB/1TB</p>
       </div>
       <div class="card-footer">
         <a href="A35.jpj" class="btn btn-primary">Buy Now</a>
@@ -235,12 +235,13 @@ Exynos 1380 processor<br>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Galaxy A25 5G</h5>
-        <p class="card-text">6.5" Super AMOLED display<br>
-Exynos 1280 processor<br>
-6/8GB RAM, 128GB storage<br>
-50MP main camera<br>
-5000mAh battery</p>
+        <h5 class="card-title">Redmi A3</h5>
+        <p class="card-text">6Display: 6.71" HD+<br>
+Processor: MediaTek Helio G36<br>
+Camera: 8MP main<br>
+Battery: 5000mAh<br>
+RAM/Storage: Up to 4GB/64GB<br>
+Special Features: Leather-like back design</p>
       </div>
       <div class="card-footer">
         <a href="Samsung-Galaxy-A25-5G-Fantasy-Blue.jpg" class="btn btn-primary">Buy Now</a>
