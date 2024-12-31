@@ -281,8 +281,10 @@ MediaTek processor<br>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        <h5 class="card-title">Galaxy F55 5G</h5>
+        <p class="card-text">Similar specs to A55 with market-specific variations<br>
+Online exclusive availability<br>
+Competitive pricing</p>
       </div>
       <div class="card-footer">
         <a href="#" class="btn btn-primary">Buy Now</a>
