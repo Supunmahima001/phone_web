@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 27, 2024 at 05:51 PM
+-- Generation Time: Dec 31, 2024 at 01:31 PM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.2.12
 
@@ -18,8 +18,21 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `signin`
+-- Database: `mobile_web`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `contactus`
+--
+
+CREATE TABLE `contactus` (
+  `name` varchar(30) DEFAULT NULL,
+  `contactno` int(10) DEFAULT NULL,
+  `email` varchar(50) NOT NULL,
+  `message` varchar(100) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 -- --------------------------------------------------------
 
@@ -28,8 +41,20 @@ SET time_zone = "+00:00";
 --
 
 CREATE TABLE `login` (
+  `email` varchar(50) DEFAULT NULL,
+  `password` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `signup`
+--
+
+CREATE TABLE `signup` (
+  `name` varchar(30) DEFAULT NULL,
   `email` varchar(50) NOT NULL,
-  `password` varchar(10) NOT NULL
+  `password` varchar(20) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
 --
@@ -37,9 +62,15 @@ CREATE TABLE `login` (
 --
 
 --
--- Indexes for table `login`
+-- Indexes for table `contactus`
 --
-ALTER TABLE `login`
+ALTER TABLE `contactus`
+  ADD PRIMARY KEY (`email`);
+
+--
+-- Indexes for table `signup`
+--
+ALTER TABLE `signup`
   ADD PRIMARY KEY (`email`);
 COMMIT;
 
