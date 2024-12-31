@@ -153,7 +153,7 @@ Snapdragon 8 Gen 3 processor<br>
 4000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="S24.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -161,8 +161,12 @@ Snapdragon 8 Gen 3 processor<br>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        <h5 class="card-title">Galaxy Z Fold5</h5>
+        <p class="card-text">7.6" main display when unfolded<br>
+6.2" cover display<br>
+Snapdragon 8 Gen 2 processor<br>
+12GB RAM<br>
+Improved hinge design.</p>
       </div>
       <div class="card-footer">
         <a href="#" class="btn btn-primary">Buy Now</a>
