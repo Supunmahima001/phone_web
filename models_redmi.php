@@ -122,13 +122,14 @@ Special Features: IP68 rating, Gorilla Glass Victus</p>
     <div class="products card h-100">
       <img src="galaxy-s24-ultra-1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Galaxy S24 Ultra</h5>
-        <p class="card-text">6.8" QHD+ Dynamic AMOLED display<br>
-Snapdragon 8 Gen 3 processor<br>
-Up to 12GB RAM and 1TB storage<br>
-200MP main camera with enhanced AI features<br>
-5000mAh battery<br>
-S Pen support</p>
+        <h5 class="card-title">Redmi Note 13 Pro 5G</h5>
+        <p class="card-text">Display: 6.67" FHD+ AMOLED, 120Hz
+Processor: Snapdragon 7s Gen 2
+Camera: 200MP main + 8MP ultrawide + 2MP macro
+Front Camera: 16MP
+Battery: 5100mAh, 67W charging
+RAM/Storage: Up to 12GB/256GB
+Special Features: IP54 rating</p>
       </div>
       <div class="card-footer">
         <a href="#" class="btn btn-primary">Buy Now</a>
