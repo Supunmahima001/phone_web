@@ -184,7 +184,7 @@ Snapdragon 8 Gen 2 processor<br>
 8GB RAM.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="Samsung-Galaxy-Z-Flip-5.jpg" class="btn btn-primary">Buy Now</a>
 </div>
     </div>
   </div>
@@ -197,11 +197,16 @@ Snapdragon 8 Gen 2 processor<br>
     <div class="products card h-100">
       <img src="..." class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <h5 class="card-title">Galaxy A55 5Gs</h5>
+        <p class="card-text">6.6" Super AMOLED display<br>
+Exynos 1480 processor<br>
+Up to 8GB RAM, 256GB storage<br>
+50MP main camera<br>
+5000mAh battery<br>
+IP67 water resistance.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="Samsung Galaxy A55-500x500.jpj" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
