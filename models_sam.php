@@ -287,7 +287,7 @@ Online exclusive availability<br>
 Competitive pricing</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="samsung-galaxy-f55.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
