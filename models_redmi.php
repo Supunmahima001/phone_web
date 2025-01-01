@@ -75,14 +75,14 @@
     <br>
     <hr>
 </div>
-<h4>Samsung</h4>
+<h4>Redmi</h4>
 
 <!-- Products Group-->
 <div class="row-products">
   <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="products card h-100">
-      <img src="Img/samsung_S24.jpg" class="card-img-top" alt="...">
+      <img src="Img/xiaomi-redmi-note4-sn-3.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi Note 4 (MediaTek Variant)</h5>
         <p class="card-text">Display: 5.5-inch Full HD (1920x1080) IPS LCD<br>
@@ -102,7 +102,7 @@ Operating System: MIUI 8 based on Android 6.0
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="Img/samsung_S22n.jpg" class="card-img-top" alt="...">
+      <img src="Img/Xiaomi-Redmi-Note-13-Pro-Plus-5G-8GB-RAM-256GB.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi Note 13 Pro+ 5G</h5>
         <p class="card-text">Display: 6.67" 1.5K AMOLED, 120Hz<br>
@@ -120,7 +120,7 @@ Special Features: IP68 rating, Gorilla Glass Victus</p>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="galaxy-s24-ultra-1.jpg" class="card-img-top" alt="...">
+      <img src="Img/366831.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi Note 13 Pro 5G</h5>
         <p class="card-text">Display: 6.67" FHD+ AMOLED, 120Hz<br>
@@ -132,7 +132,7 @@ RAM/Storage: Up to 12GB/256GB<r>
 Special Features: IP54 rating</p>
       </div>
       <div class="card-footer">
-        <a href="Xiaomi-Redmi-Note-13-Pro-Plus-5G-8GB-RAM-256GB.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="X366831.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -141,7 +141,7 @@ Special Features: IP54 rating</p>
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/images.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi Note 13 5G</h5>
         <p class="card-text">Display: 6.67" FHD+ AMOLED, 120Hz<br>
@@ -152,7 +152,7 @@ Battery: 5000mAh, 33W charging<br>
 RAM/Storage: Up to 8GB/256GB</p>
       </div>
       <div class="card-footer">
-        <a href="Img/images.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="images.jpg" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>

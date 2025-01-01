@@ -123,7 +123,7 @@
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="galaxy-s24-ultra-1.jpg" class="card-img-top" alt="...">
+      <img src="Img/galaxy-s24-ultra-1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy S24 Ultra</h5>
         <p class="card-text">6.8" QHD+ Dynamic AMOLED display<br>
@@ -143,7 +143,7 @@ S Pen support</p>
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/S24.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy S24</h5>
         <p class="card-text">6.2" FHD+ Dynamic AMOLED display<br>
@@ -153,13 +153,13 @@ Snapdragon 8 Gen 3 processor<br>
 4000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="S24.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/Z fold5.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy Z Fold5</h5>
         <p class="card-text">7.6" main display when unfolded<br>
@@ -169,13 +169,13 @@ Snapdragon 8 Gen 2 processor<br>
 Improved hinge design.</p>
       </div>
       <div class="card-footer">
-        <a href="Z fold5.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/Samsung-Galaxy-Z-Flip-5.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy Z Flip5</h5>
         <p class="card-text">6.7" main display when unfolded<br>
@@ -184,7 +184,7 @@ Snapdragon 8 Gen 2 processor<br>
 8GB RAM.</p>
       </div>
       <div class="card-footer">
-        <a href="Samsung-Galaxy-Z-Flip-5.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
 </div>
     </div>
   </div>
@@ -195,7 +195,7 @@ Snapdragon 8 Gen 2 processor<br>
   <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/Samsung Galaxy A55-500x500.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy A55 5Gs</h5>
         <p class="card-text">6.6" Super AMOLED display<br>
@@ -206,13 +206,13 @@ Up to 8GB RAM, 256GB storage<br>
 IP67 water resistance.</p>
       </div>
       <div class="card-footer">
-        <a href="Samsung Galaxy A55-500x500.jpj" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/A35.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy A35 5G</h5>
         <p class="card-text">6.6" Super AMOLED display<br>
@@ -222,13 +222,13 @@ Exynos 1380 processor<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="A35.jpj" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
 </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Samsung-Galaxy-A25-5G-Fantasy-Blue.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy A25 5G</h5>
         <p class="card-text">6.5" Super AMOLED display<br>
@@ -238,7 +238,7 @@ Exynos 1280 processor<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="Samsung-Galaxy-A25-5G-Fantasy-Blue.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -247,7 +247,7 @@ Exynos 1280 processor<br>
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/MBPSSM-M556BLGASLK-S-1--1730187495.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy M55 5G</h5>
         <p class="card-text">6.7" Super AMOLED display<br>
@@ -257,13 +257,13 @@ Up to 8GB RAM, 256GB storage<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="MBPSSM-M556BLGASLK-S-1--1730187495.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/Samsung-Galaxy-M35-8GB-RAM-256GB-Price-In-Sri-Lanka.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy M35 5G</h5>
         <p class="card-text">6.6" Super AMOLED display<br>
@@ -273,13 +273,13 @@ MediaTek processor<br>
 6000mAh battery.</p>
       </div>
       <div class="card-footer">
-        <a href="Samsung-Galaxy-M35-8GB-RAM-256GB-Price-In-Sri-Lanka.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/samsung-galaxy-f55.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy F55 5G</h5>
         <p class="card-text">Similar specs to A55 with market-specific variations<br>
@@ -287,7 +287,7 @@ Online exclusive availability<br>
 Competitive pricing</p>
       </div>
       <div class="card-footer">
-        <a href="samsung-galaxy-f55.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
