@@ -152,13 +152,13 @@ Battery: 5000mAh, 33W charging<br>
 RAM/Storage: Up to 8GB/256GB</p>
       </div>
       <div class="card-footer">
-        <a href="images.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/redmi-13c-5G-price-in-sri-lanka.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi 13C</h5>
         <p class="card-text">Display: 6.74" HD+, 90Hz<br>
@@ -170,13 +170,13 @@ RAM/Storage: Up to 8GB/256GB<br>
 Special Features: Side fingerprint sensor.</p>
       </div>
       <div class="card-footer">
-        <a href="redmi-13c-5G-price-in-sri-lanka.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/f76d64842787c8a6df8c59858b19496f.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi 12</h5>
         <p class="card-text">Display: 6.79" FHD+, 90Hz<br>
@@ -188,7 +188,7 @@ RAM/Storage: Up to 8GB/128GB<br>
 Special Features: IP53 rating, Glass back.</p>
       </div>
       <div class="card-footer">
-        <a href="f76d64842787c8a6df8c59858b19496f.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
 </div>
     </div>
   </div>
@@ -199,7 +199,7 @@ Special Features: IP53 rating, Glass back.</p>
   <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/Redmi-K70-duo.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi K70 Pro</h5>
         <p class="card-text">Display: 6.67" 2K AMOLED, 120Hz<br>
@@ -211,13 +211,13 @@ RAM/Storage: Up to 24GB/1TB<br>
 Special Features: IR blaster, Dolby Vision</p>
       </div>
       <div class="card-footer">
-        <a href="Redmi-K70-duo.jpj" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/A35.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi K70</h5>
         <p class="card-text">Display: 6.67" 2K AMOLED, 120Hz<br>
@@ -227,13 +227,13 @@ Battery: 5500mAh, 120W charging<br>
 RAM/Storage: Up to 16GB/1TB</p>
       </div>
       <div class="card-footer">
-        <a href="A35.jpj" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
 </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="..." class="card-img-top" alt="...">
+      <img src="Img/Xiaomi-Redmi-A3.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi A3</h5>
         <p class="card-text">6Display: 6.71" HD+<br>
@@ -244,7 +244,7 @@ RAM/Storage: Up to 4GB/64GB<br>
 Special Features: Leather-like back design</p>
       </div>
       <div class="card-footer">
-        <a href="Xiaomi-Redmi-A3.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
