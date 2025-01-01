@@ -408,7 +408,7 @@ MediaTek processor<br>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="Img/samsung-galaxy-f55.jpg" class="card-img-top" alt="...">
+      <img src="Img/SAMSUNG-C55-CHINA1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy F55 5G</h5>
         <p class="card-text">Similar specs to A55 with market-specific variations<br>
