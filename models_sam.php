@@ -97,7 +97,7 @@
           Rs.175000.00</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
