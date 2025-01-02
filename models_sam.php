@@ -263,7 +263,7 @@ Up to 8GB RAM, 256GB storage<br>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="Img/Samsung-Galaxy-M35-8GB-RAM-256GB-Price-In-Sri-Lanka.jpg" class="card-img-top" alt="...">
+      <img src="Img/Samsung-Galaxy-M35-8GB-RAM-256GB-Price-In-Sri-Lanka.webp" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy M35 5G</h5>
         <p class="card-text">6.6" Super AMOLED display<br>
@@ -279,7 +279,7 @@ MediaTek processor<br>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="Img/samsung-galaxy-f55.jpg" class="card-img-top" alt="...">
+      <img src="Img/SAMSUNG-C55-CHINA1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy F55 5G</h5>
         <p class="card-text">Similar specs to A55 with market-specific variations<br>

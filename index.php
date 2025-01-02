@@ -440,7 +440,7 @@ Competitive pricing</p>
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div
-  </div>
+</div>
   <div class="col">
     <div class="products card h-100">
       <img src="Img/redmi13c.jpg" class="card-img-top" alt="...">

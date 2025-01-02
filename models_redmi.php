@@ -225,7 +225,7 @@ Processor: Snapdragon 8 Gen 2<br>
 Camera: 50MP main + 8MP ultrawide + 2MP macro<br>
 Battery: 5500mAh, 120W charging<br>
 RAM/Storage: Up to 16GB/1TB</p>
-      </div>
+      </div>   
       <div class="card-footer">
         <a href="#" class="btn btn-primary">Buy Now</a>
       </div>
