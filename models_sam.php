@@ -117,7 +117,7 @@
           Rs.139000.00</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -134,7 +134,7 @@ Up to 12GB RAM and 1TB storage<br>
 S Pen support</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -153,7 +153,7 @@ Snapdragon 8 Gen 3 processor<br>
 4000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -169,7 +169,7 @@ Snapdragon 8 Gen 2 processor<br>
 Improved hinge design.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -184,7 +184,7 @@ Snapdragon 8 Gen 2 processor<br>
 8GB RAM.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
 </div>
     </div>
   </div>
@@ -206,7 +206,7 @@ Up to 8GB RAM, 256GB storage<br>
 IP67 water resistance.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -222,7 +222,7 @@ Exynos 1380 processor<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
 </div>
@@ -238,7 +238,7 @@ Exynos 1280 processor<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -257,7 +257,7 @@ Up to 8GB RAM, 256GB storage<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -273,7 +273,7 @@ MediaTek processor<br>
 6000mAh battery.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -287,7 +287,7 @@ Online exclusive availability<br>
 Competitive pricing</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
