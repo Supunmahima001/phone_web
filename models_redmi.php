@@ -158,7 +158,7 @@ RAM/Storage: Up to 8GB/256GB</p>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="Img/redmi-13c-5G-price-in-sri-lanka.jpg" class="card-img-top" alt="...">
+      <img src="Img/-original-imahfk4xenbzxwrh.webp" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi 13C</h5>
         <p class="card-text">Display: 6.74" HD+, 90Hz<br>
