@@ -97,7 +97,7 @@
           Rs.175000.00</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -117,7 +117,7 @@
           Rs.139000.00</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -134,7 +134,7 @@ Up to 12GB RAM and 1TB storage<br>
 S Pen support</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -153,7 +153,7 @@ Snapdragon 8 Gen 3 processor<br>
 4000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -169,7 +169,7 @@ Snapdragon 8 Gen 2 processor<br>
 Improved hinge design.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -184,7 +184,7 @@ Snapdragon 8 Gen 2 processor<br>
 8GB RAM.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
 </div>
     </div>
   </div>
@@ -206,7 +206,7 @@ Up to 8GB RAM, 256GB storage<br>
 IP67 water resistance.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -222,7 +222,7 @@ Exynos 1380 processor<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
 </div>
@@ -238,7 +238,7 @@ Exynos 1280 processor<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -257,13 +257,13 @@ Up to 8GB RAM, 256GB storage<br>
 5000mAh battery</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="Img/Samsung-Galaxy-M35-8GB-RAM-256GB-Price-In-Sri-Lanka.webp" class="card-img-top" alt="...">
+      <img src="Img/Samsung Galaxy M35-500x500.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy M35 5G</h5>
         <p class="card-text">6.6" Super AMOLED display<br>
@@ -273,7 +273,7 @@ MediaTek processor<br>
 6000mAh battery.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -287,7 +287,7 @@ Online exclusive availability<br>
 Competitive pricing</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
