@@ -92,7 +92,7 @@ Storage: 16GB/32GB, expandable via microSD<br>
 Camera: 13MP rear, 5MP front<br>
 Battery: 4100mAh<br>
 Special features: Metal body, fingerprint sensor<br>
-Operating System: MIUI 8 based on Android 6.0
+Operating System: MIUI 8 based on Android 6.0 <br><br> Rs.31,900.00
         </p>
       </div>
       <div class="card-footer">
@@ -111,7 +111,7 @@ Camera: 200MP main + 8MP ultrawide + 2MP macro<br>
 Front Camera: 16MP<br>
 Battery: 5000mAh, 120W charging<br>
 RAM/Storage: Up to 12GB/512GB<br>
-Special Features: IP68 rating, Gorilla Glass Victus</p>
+Special Features: IP68 rating, Gorilla Glass Victus<br><br>Rs.94,900.00</p>
       </div>
       <div class="card-footer">
         <a href="buynow.php" class="btn btn-primary">Buy Now</a>
