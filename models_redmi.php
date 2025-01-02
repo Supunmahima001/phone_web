@@ -176,7 +176,7 @@ Special Features: Side fingerprint sensor.</p>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="Img/f76d64842787c8a6df8c59858b19496f.jpg" class="card-img-top" alt="...">
+      <img src="Img/f76d64842787c8a6df8c59858b19496f.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi 12</h5>
         <p class="card-text">Display: 6.79" FHD+, 90Hz<br>
