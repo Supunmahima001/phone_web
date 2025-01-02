@@ -217,7 +217,7 @@ Special Features: IR blaster, Dolby Vision</p>
   </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="Img/A35.jpg" class="card-img-top" alt="...">
+      <img src="Img/images-1.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Redmi K70</h5>
         <p class="card-text">Display: 6.67" 2K AMOLED, 120Hz<br>
