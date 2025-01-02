@@ -228,7 +228,7 @@ Exynos 1380 processor<br>
 </div>
   <div class="col">
     <div class="products card h-100">
-      <img src="Samsung-Galaxy-A25-5G-Fantasy-Blue.jpg" class="card-img-top" alt="...">
+      <img src="Img/Samsung-Galaxy-A25-5G-Fantasy-Blue.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Galaxy A25 5G</h5>
         <p class="card-text">6.5" Super AMOLED display<br>
