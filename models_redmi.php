@@ -96,7 +96,7 @@ Operating System: MIUI 8 based on Android 6.0
         </p>
       </div>
       <div class="card-footer">
-        <a href="xiaomi-redmi-note4-sn-3.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -114,7 +114,7 @@ RAM/Storage: Up to 12GB/512GB<br>
 Special Features: IP68 rating, Gorilla Glass Victus</p>
       </div>
       <div class="card-footer">
-        <a href="Xiaomi-Redmi-Note-13-Pro-Plus-5G-8GB-RAM-256GB.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -132,7 +132,7 @@ RAM/Storage: Up to 12GB/256GB<r>
 Special Features: IP54 rating</p>
       </div>
       <div class="card-footer">
-        <a href="X366831.jpg" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -152,7 +152,7 @@ Battery: 5000mAh, 33W charging<br>
 RAM/Storage: Up to 8GB/256GB</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -170,7 +170,7 @@ RAM/Storage: Up to 8GB/256GB<br>
 Special Features: Side fingerprint sensor.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -188,7 +188,7 @@ RAM/Storage: Up to 8GB/128GB<br>
 Special Features: IP53 rating, Glass back.</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
 </div>
     </div>
   </div>
@@ -211,7 +211,7 @@ RAM/Storage: Up to 24GB/1TB<br>
 Special Features: IR blaster, Dolby Vision</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
@@ -227,7 +227,7 @@ Battery: 5500mAh, 120W charging<br>
 RAM/Storage: Up to 16GB/1TB</p>
       </div>   
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
 </div>
@@ -244,7 +244,7 @@ RAM/Storage: Up to 4GB/64GB<br>
 Special Features: Leather-like back design</p>
       </div>
       <div class="card-footer">
-        <a href="#" class="btn btn-primary">Buy Now</a>
+        <a href="buynow.php" class="btn btn-primary">Buy Now</a>
       </div>
     </div>
   </div>
